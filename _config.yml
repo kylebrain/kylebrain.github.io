@@ -1,12 +1,15 @@
-title: Geeky corner
-description: Much-Worse Jekyll theme for academic page and blog
-sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
+title: Kyle Brainard
+description: "Brainard's corner"
+sourcecode: "https://github.com/kylebrain/kylebrain.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
 url: "http://gchauras.github.io"     # the base hostname & protocol for your site
-baseurl: "/much-worse-jekyll-theme"                   # the subpath of your site, e.g. /blog
+baseurl: ""                   # the subpath of your site, e.g. /blog
+
+collections:
+    projects:
 
 author:
     name:

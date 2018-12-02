@@ -4,17 +4,21 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
+<div class="captioned-img alignright">
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+<img src="images/profile.jpg">
 
-## Contact
+</div>
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+I work with C-style languages, using C# and Unity for my work in the Evolutionary Computational Systems Labratory and other side projects, C++ for all course work, currently with Data Structures, and C for my teaching fellow position. I am familar with other web languages from side projects including SQL and frontend and backend Javascript frameworks.
+
+## Links
+
+Github: [kylebrain] <br />
+Email: [kbrainard@nevada.unr.edu] <br />
+ECSL Website: [ecsl.cse.unr.edu]
 
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+[kylebrain]: https://github.com/kylebrain
+[kbrainard@nevada.unr.edu]: mailto:kbrainard@nevada.unr.edu
+[ecsl.cse.unr.edu]: https://ecsl.cse.unr.edu/
