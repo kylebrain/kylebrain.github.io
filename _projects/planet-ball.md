@@ -6,4 +6,4 @@ image: planet-ball.jpg
 github: https://github.com/Eryl2000/Hackathon2018
 download: 
 ---
-Lorem ipsum dolor sit amet, testing adipiscing elit. Proin laoreet vitae lorem finibus aliquet. Phasellus a diam convallis dui placerat laoreet. Nunc sit amet accumsan lorem. Nullam velit risus, suscipit nec bibendum vel, finibus semper elit. Vestibulum maximus sed elit ac suscipit. Aliquam varius faucibus est ut aliquet. Nam vitae.
+Game made at Reno's Biggest Little Hackathon. Players must hit the ball into the goal, but they must use planets to orbit around to control their movement. Player can also use powerups like iron which increases their mass and a speed boost.
