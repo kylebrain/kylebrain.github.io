@@ -6,4 +6,4 @@ image: net-defense.jpg
 github: https://github.com/kylebrain/ecslTower
 download: 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin laoreet vitae lorem finibus aliquet. Phasellus a diam convallis dui placerat laoreet. Nunc sit amet accumsan lorem. Nullam velit risus, suscipit nec bibendum vel, finibus semper elit. Vestibulum maximus sed elit ac suscipit. Aliquam varius faucibus est ut aliquet. Nam vitae.
+A collaboration with the cyber-security lab, Net Defense teaches students basic concepts of cyber security specificaly dealing with packets and filtering. Written with C# in Unity full-time over the summer through the Research Experiences for Teachers National Science Foundation grant, the game includes a single player mode and tutorial as well as an in progress multiplayer mode which allows players to both defend and attack a system.

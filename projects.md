@@ -12,7 +12,7 @@ permalink: /projects/
     {{project.description}}
     </div>
     <br/>
-    <img src="images/{{project.image}}" height="150px" allign="left" style="margin-top: 0px"/>
+    <img src="images/{{project.image}}" height="300px" allign="left" style="margin-top: 0px"/>
     <p>{{project.content}}</p>
     <div class="post-meta">
     <a href="{{project.github}}">Github</a>
