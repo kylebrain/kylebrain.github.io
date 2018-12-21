@@ -15,9 +15,11 @@ permalink: /projects/
     <img src="images/{{project.image}}" height="300px" allign="left" style="margin-top: 0px"/>
     <p>{{project.content}}</p>
     <div class="post-meta">
-    <a href="{{project.github}}">Github</a>
+    <a href="{{project.github}}" rel="noopener noreferrer" target="_blank">Github</a>
+    {% if project.download %}
     <br/>
-    <a href="{{project.download}}">Download</a>
+    <a href="{{project.download}}" rel="noopener noreferrer" target="_blank">Download</a>
+    {% endif %}
     </div>
   </li>
 {% endfor %}
