@@ -3,8 +3,20 @@ layout: page
 title: Work
 permalink: /work/
 ---
+## Intel
+<ul class="listing">
+    <li class="listing-item">
+        Working on the Non-volatile Memory Solution Group Function Validation team.
+    </li>
+    <li class="listing-item">
+        Working developing test content in Python to find firmware bugs in Intel's solid state drives.
+    </li>
+    <li class="listing-item">
+        Under the Agile development methodology, using JIRA for issue management and Gerrit for code review.
+    </li>
+</ul>
 
-## Evolutionary Computing Systems Labratory - [link](https://ecsl.cse.unr.edu/)
+## [Evolutionary Computing Systems Labratory](https://ecsl.cse.unr.edu/)
 <ul class="listing">
     <li class="listing-item">
         Working on a VR/multiplayer simulation for the Navy using Unity, UNet, and SteamVR.
