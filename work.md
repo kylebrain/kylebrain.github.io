@@ -3,16 +3,16 @@ layout: page
 title: Work
 permalink: /work/
 ---
-## Intel
+## Intel Corporation
 <ul class="listing">
     <li class="listing-item">
-        Working on the Non-volatile Memory Solution Group Function Validation team.
+        Worked on the Non-volatile Memory Solution Group Function Validation team.
     </li>
     <li class="listing-item">
-        Working developing test content in Python to find firmware bugs in Intel's solid state drives.
+        Worked developing test content in Python to find firmware bugs in Intel's solid state drives.
     </li>
     <li class="listing-item">
-        Under the Agile development methodology, using JIRA for issue management and Gerrit for code review.
+        Under the Agile development methodology, used Jira for issue management and Gerrit for code review.
     </li>
 </ul>
 
