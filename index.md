@@ -10,7 +10,7 @@ permalink: /
 
 </div>
 
-I work with C-style languages, using C# and Unity for my work in the Evolutionary Computational Systems Labratory and other side projects, C++ for all course work, completed Data Structures and currently in Programming Languages, and C for my teaching fellow position. I am familar with other web languages from side projects including SQL and frontend and backend Javascript frameworks. Currently working at Intel using Python developing functional validation tests.
+I primarily work with C-style languages, using C# and Unity for my work in the Evolutionary Computational Systems Labratory and other side projects, C++ for all course work, and C for my teaching fellow position. I worked at Intel using Python developing functional validation tests. I am familar with other web languages from side projects including SQL and frontend and backend Javascript frameworks.
 
 ## Links
 
