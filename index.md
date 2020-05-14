@@ -16,5 +16,4 @@ I primarily work with C-style languages, using C# and Unity for my previous work
 
 Github: [kylebrain](https://github.com/kylebrain) <br />
 Email: [kbrainard@nevada.unr.edu](mailto:kbrainard@nevada.unr.edu) <br />
-ECSL Website: [here](https://ecsl.cse.unr.edu/) <br />
 Resume: [here](https://docs.google.com/document/d/1uqIqqzies9qAt4caEGX0H8eLjIEw2-p1FyB1GzM2Y2k/preview)
