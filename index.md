@@ -6,7 +6,7 @@ permalink: /
 
 <div class="captioned-img alignright">
 
-<img style="padding-left: 20px;" src="images/profile.jpg">
+<img style="padding-left: 20px; height: 230px;" src="https://github.com/kylebrain.png?size=230">
 
 </div>
 
