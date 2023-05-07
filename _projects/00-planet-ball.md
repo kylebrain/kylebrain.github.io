@@ -6,4 +6,6 @@ image: planet-ball.jpg
 github: https://github.com/Eryl2000/Hackathon2018
 download: https://github.com/Eryl2000/Hackathon2018/releases/latest
 ---
-Game made at Reno's Biggest Little Hackathon. Players must hit the ball into the goal, but they must use planets to orbit around to control their movement. Player can also use powerups like iron which increases their mass and a speed boost.
+Competitive and unique soccer-like Unity game using 2D rotational physics. Initial demo won the Games category at the 2018 UNR Hackathon. Implements robust client-server prediction and rollback netcode which allows for accurate and fun networked physics gameplay. Integrates with the Steam API for easy multiplayer lobby set-up.
+
+Demo is available on Github. Dev build for local play, release build for Steam lobbying. Feel free to reach out if you want to play. Coming to Steam soon!

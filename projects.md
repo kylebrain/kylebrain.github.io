@@ -7,7 +7,7 @@ permalink: /projects/
 <ul class="listing">
 {% for project in site.projects %}
   <li class="listing-item">
-    <h2>{{ project.title }} - {{project.purpose}}</h2>
+    <h2>{{ project.title }}</h2>
     <div class="post-meta">
     {{project.description}}
     </div>
