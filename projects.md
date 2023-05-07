@@ -22,6 +22,10 @@ permalink: /projects/
     <br/>
     <a href="{{project.download}}" rel="noopener noreferrer" target="_blank">Download</a>
     {% endif %}
+    {% if project.link %}
+    <br/>
+    <a href="{{project.download}}" rel="noopener noreferrer" target="_blank">Link</a>
+    {% endif %}
     </div>
   </li>
 {% endfor %}
