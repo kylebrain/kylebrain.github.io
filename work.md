@@ -3,7 +3,40 @@ layout: page
 title: Work
 permalink: /work/
 ---
-## Ridgeline Apps Internship
+## Ridgeline Apps
+<ul class="listing">
+    <li class="listing-item">
+        Designed key components of the new Ridgeline deployment and operations tool
+    </li>
+    <li class="listing-item">
+        Supported the company transition to Github Actions CI/CD
+    </li>
+    <li class="listing-item">
+        Designed and implemented Ridgeline’s new KMS messaging platform
+    </li>
+    <li class="listing-item">
+        Supported the company transition from Cloudformation to Terraform CDK
+    </li>
+    <li class="listing-item">
+        Containerized Ridgeline’s old deployment orchestrator tool which helped enable the company transition from Lambdas to ECS containers
+    </li>
+    <li class="listing-item">
+        Improved deployment automation using Step Functions and Codepipeline
+    </li>
+    <li class="listing-item">
+        Improved deployment visibility through Datadog/Slack/Jira integrations
+    </li>
+</ul>
+
+
+## Ridgeline Apps Winter DevOps Internship
+<ul class="listing">
+    <li class="listing-item">
+        Designed and implemented Ridgeline’s code coverage tool
+    </li>
+</ul>
+
+## Ridgeline Apps Summer Internship
 <ul class="listing">
     <li class="listing-item">
         Designed Python GraphQL backend logic handlers for front facing dashboard analytics using an internal engine.
@@ -14,9 +47,6 @@ permalink: /work/
     <li class="listing-item">
         Designed ReactJS frontend using hooks to control display flow and connect backend.
     </li>
-    <li class="listing-item">
-        Ran the dashboard project with Github for source control and Jira for issue management.
-    </li>
 </ul>
 
 ## Intel Corporation Internship
@@ -25,10 +55,7 @@ permalink: /work/
         Worked on the Non-volatile Memory Solution Group Function Validation team.
     </li>
     <li class="listing-item">
-        Worked developing test content in Python to find firmware bugs in Intel's solid state drives.
-    </li>
-    <li class="listing-item">
-        Under the Agile development methodology, used Jira for issue management and Gerrit for code review.
+        Worked developing test content and framework in Python to find firmware bugs in Intel's solid state drives.
     </li>
 </ul>
 
