@@ -6,11 +6,15 @@ permalink: /
 
 <div class="captioned-img alignright">
 
-<img style="padding-left: 30px; height: 300px;" src="images/profilesquare.jpg">
+<img style="padding-left: 50px; padding-top: 20px; padding-bottom: 20px; height: 500px;" src="images/profilefull.jpg">
 
 </div>
 
-I primarily work with C-style languages, using C# and Unity for my previous work at the Evolutionary Computational Systems Labratory and other side projects, C++ for all course work, and C for my teaching fellow position. I worked at Intel using Python developing functional validation tests. I am familar with other web languages from side projects including SQL and frontend and backend Javascript frameworks. Most recently, I worked as an intern for Ridgeline Apps using Python backend and ReactJS frontend and I will start working there full-time Summer 2021.
+I've been working for Ridgeline Apps for over two years now, initially as a product intern and now as a DevOps Engineer. I work everyday with AWS cloud infrastructure and deployment orchestration tooling. My work is very language agnostic so I have have significant experience with Python, Typescript, and Kotlin. I've also developed profficiency in Terraform, Docker, Github Actions, Datadog, and more.
+
+On the side, I've been working on my Unity game, Planet Ball. Originally developed for the 2019 UNR Hackathon, I've recently revisited the game and hope to release it on Steam soon. A huge achievement I've made recently is implementing component-based client-server prediction and rollback netcode which allows the game's complicated physics to run smoothly across the network.
+
+I also try to maintain my senior project, Snow Pass. Inspired by many icy trips between Sacramento and Reno over Donner pass, Snow Pass aggregates maps, webcams, weather, and Nevada DOT twitter.
 
 ## Links
 
