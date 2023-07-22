@@ -2,6 +2,7 @@
 title: Dmeeto
 purpose: Design Patterns Final Project
 description: Meet the man of your dream in this parody dating app.
+github: https://github.com/kylebrain/dmeeto
 image: dmeeto.jpg
 link: https://www.kylebrain.com/dmeeto/
 ---

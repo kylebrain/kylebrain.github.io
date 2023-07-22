@@ -3,6 +3,7 @@ title: Snow Pass (checkthepass.com)
 purpose: UNR Senior Project
 description: Check maps, webcams, and weather in this one-stop web app.
 image: snowpass.PNG
+video: https://youtu.be/vvGn8PDbXjU
 link: https://checkthepass.com/
 ---
 Inspired by my many trips between my home town in Sacramento and school in Reno, this one stop web app displays webcams, maps, weather, and chain control to aid drivers during the winter.

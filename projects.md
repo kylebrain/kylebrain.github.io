@@ -15,16 +15,20 @@ permalink: /projects/
     <img src="images/{{project.image}}" height="400px" allign="left" style="margin-top: 0px"/>
     <p>{{project.content}}</p>
     <div class="post-meta">
-    {% if project.github %}
-    <a href="{{project.github}}" rel="noopener noreferrer" target="_blank">Github</a>
+    {% if project.video %}
+    <a href="{{project.video}}" rel="noopener noreferrer" target="_blank">Video Demo</a>
+    <br/>
     {% endif %}
     {% if project.download %}
-    <br/>
     <a href="{{project.download}}" rel="noopener noreferrer" target="_blank">Download</a>
+    <br/>
     {% endif %}
     {% if project.link %}
+    <a href="{{project.link}}" rel="noopener noreferrer" target="_blank">Live Web App Demo</a>
     <br/>
-    <a href="{{project.link}}" rel="noopener noreferrer" target="_blank">Link</a>
+    {% endif %}
+    {% if project.github %}
+    <a href="{{project.github}}" rel="noopener noreferrer" target="_blank">Github</a>
     {% endif %}
     </div>
   </li>

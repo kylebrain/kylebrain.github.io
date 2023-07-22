@@ -3,6 +3,7 @@ title: Planet Ball
 purpose: "Hackathon 2018"
 description: Play ball with your friends in interstellar high-jinx!
 image: planet-ball.jpg
+video: https://youtu.be/BmawG0zGLZE
 github: https://github.com/Eryl2000/Hackathon2018
 download: https://github.com/Eryl2000/Hackathon2018/releases/latest
 ---

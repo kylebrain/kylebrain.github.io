@@ -3,6 +3,7 @@ title: VR Target Angle Recognition Software
 purpose: ECSL Lab
 description: Identify ship angles and light statuses in VR!
 image: tars-thumb.png
+video: https://youtu.be/7k7zC2mZuMk
 github:
 download: 
 ---
