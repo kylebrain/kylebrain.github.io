@@ -3,22 +3,38 @@ layout: page
 title: Work
 permalink: /work/
 ---
-## Ridgeline Apps
+## Senior Software Engineer at Light & Wonder
 <l class="listing">
     <li class="listing-item">
-        Designed key components of the new Ridgeline deployment and operations tool
+        Designed and implemented the Multi-Table Game layout and transition system in Unity with C# which enabled seamless multi-gaming with “trend view” in new markets
     </li>
     <li class="listing-item">
-        Supported the company transition to Github Actions CI/CD
+        Architected and implemented card and chip recognition Computer Vision (CV) AI in Python
     </li>
     <li class="listing-item">
-        Designed and implemented Ridgeline’s new KMS messaging platform
+        Optimized the previous AWS AI chip detection pipeline from ~40s down to 0.5s locally which enabled continuous chip detection rather than waiting for responses
+    </li>
+    <li class="listing-item">
+        Created AI assisting tools for training and calibrating in Typescript ReactJS
+    </li>
+    <li class="listing-item">
+        Containerized the CV solution for bundled deployment using Docker
+    </li>
+</l>
+
+## DevOps Engineer Level 2 at Ridgeline Apps
+<l class="listing">
+    <li class="listing-item">
+        Designed key components of the new Ridgeline deployment and operations tool which enabled the DevOps team to cleanly manage environments and deployment and enabled the company to deploy environments and code continuously
+    </li>
+    <li class="listing-item">
+        Supported the company transition to Github Actions CI/CD which enabled continuous linting and unit test feedback for developers within minutes
     </li>
     <li class="listing-item">
         Supported the company transition from Cloudformation to Terraform CDK
     </li>
     <li class="listing-item">
-        Containerized Ridgeline’s old deployment orchestrator tool which helped enable the company transition from Lambdas to ECS containers
+        Containerized Ridgeline’s old deployment orchestrator tool which helped enable the company transition from Lambdas to ECS containers which enabled faster response times, better logging, and faster deployment through A/B
     </li>
     <li class="listing-item">
         Improved deployment automation using Step Functions and Codepipeline
@@ -49,7 +65,7 @@ permalink: /work/
     </li>
 </l>
 
-## Intel Corporation Internship
+## Intel Corporation Software Engineering Internship
 <l class="listing">
     <li class="listing-item">
         Worked on the Non-volatile Memory Solution Group Function Validation team.
